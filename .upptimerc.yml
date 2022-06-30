@@ -7,7 +7,13 @@ sites:
     url: https://www.cuzk.cz
   - name: Nahlížení do KN
     url: https://nahlizenidokn.cuzk.cz
-
+  - name: Dálkový přístup do KN
+    url = https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup&PAR_RequestedPage=
+  - name: WMS KN
+    url = http://services.cuzk.cz/monitoring
+  - name = WFS INSPIRE CPc
+    url = https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
