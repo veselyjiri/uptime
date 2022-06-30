@@ -8,7 +8,7 @@ sites:
   - name: Nahlížení do KN
     url: https://nahlizenidokn.cuzk.cz
   - name: Dálkový přístup do KN
-    url = https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup&PAR_RequestedPage=
+    url = https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup
   - name: WMS KN
     url = http://services.cuzk.cz/monitoring
   - name = WFS INSPIRE CPc
