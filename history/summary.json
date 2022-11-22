@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
-    "time": 1079,
-    "timeDay": 1143,
-    "timeWeek": 1021,
-    "timeMonth": 1062,
-    "timeYear": 1079,
+    "time": 1081,
+    "timeDay": 1390,
+    "timeWeek": 1104,
+    "timeMonth": 1069,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2022-10-30": 85
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nahlizenidokn.cuzk.cz.ico",
     "slug": "nahlizeni-do-kn",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 976,
-    "timeDay": 810,
-    "timeWeek": 724,
-    "timeMonth": 828,
+    "timeDay": 990,
+    "timeWeek": 776,
+    "timeMonth": 834,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2022-10-29": 63,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 704,
-    "timeDay": 792,
-    "timeWeek": 620,
-    "timeMonth": 673,
-    "timeYear": 704,
+    "time": 706,
+    "timeDay": 1019,
+    "timeWeek": 685,
+    "timeMonth": 689,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2022-08-04": 21
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 1134,
-    "timeWeek": 1055,
-    "timeMonth": 1183,
-    "timeYear": 1191,
+    "time": 1192,
+    "timeDay": 1315,
+    "timeWeek": 1106,
+    "timeMonth": 1186,
+    "timeYear": 1192,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 559,
-    "timeWeek": 729,
-    "timeMonth": 805,
-    "timeYear": 799,
+    "time": 804,
+    "timeDay": 1508,
+    "timeWeek": 769,
+    "timeMonth": 836,
+    "timeYear": 804,
     "dailyMinutesDown": {}
   }
 ]
