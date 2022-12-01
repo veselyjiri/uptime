@@ -4,10 +4,10 @@
     "url": "https://www.cuzk.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.cuzk.cz.ico",
     "slug": "www-cuzk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1080,
@@ -16,6 +16,7 @@
     "timeMonth": 1095,
     "timeYear": 1080,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-10-30": 85
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://nahlizenidokn.cuzk.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nahlizenidokn.cuzk.cz.ico",
     "slug": "nahlizeni-do-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.28%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "96.27%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.66%",
     "time": 1094,
@@ -36,6 +37,7 @@
     "timeMonth": 1507,
     "timeYear": 1094,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-11-28": 328,
       "2022-11-27": 47,
       "2022-10-29": 63,
@@ -49,10 +51,10 @@
     "url": "https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup",
     "icon": "https://icons.duckduckgo.com/ip3/katastr.cuzk.cz.ico",
     "slug": "dalkovy-pristup-do-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 705,
@@ -61,6 +63,7 @@
     "timeMonth": 697,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2022-12-01": 1,
       "2022-08-04": 21
     }
   },
@@ -69,9 +72,9 @@
     "url": "http://services.cuzk.cz/monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wms-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,17 +83,19 @@
     "timeWeek": 1184,
     "timeMonth": 1195,
     "timeYear": 1190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
   },
   {
     "name": "WFS INSPIRE CPc",
     "url": "https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wfs-inspire-c-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 806,
@@ -99,6 +104,7 @@
     "timeMonth": 911,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2022-12-01": 0,
       "2022-11-28": 51
     }
   }
