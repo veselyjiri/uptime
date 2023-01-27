@@ -75,19 +75,19 @@
     "url": "http://services.cuzk.cz/monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wms-kn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 756,
-    "timeWeek": 1336,
-    "timeMonth": 1270,
-    "timeYear": 1194,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1197,
+    "timeDay": 1088,
+    "timeWeek": 1382,
+    "timeMonth": 1284,
+    "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-01-27": 0
+      "2023-01-27": 21
     }
   },
   {
