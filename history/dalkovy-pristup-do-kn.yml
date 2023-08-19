@@ -1,7 +1,7 @@
 url: https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup
 status: up
 code: 200
-responseTime: 833
-lastUpdated: 2023-08-18T23:09:12.493Z
-startTime: Thu Jun 30 2022 09:38:06 GMT+0000 (Coordinated Universal Time)
+responseTime: 540
+lastUpdated: 2023-08-19T23:08:55.853Z
+startTime: 2022-06-30T09:38:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
