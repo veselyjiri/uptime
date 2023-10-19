@@ -1,7 +1,7 @@
 url: https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup
-status: down
-code: 502
-responseTime: 535
-lastUpdated: 2023-10-19T17:13:55.162Z
+status: up
+code: 200
+responseTime: 794
+lastUpdated: 2023-10-19T17:26:10.742Z
 startTime: 2022-06-30T09:38:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
