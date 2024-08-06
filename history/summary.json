@@ -6,17 +6,17 @@
     "slug": "www-cuzk",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
     "time": 1304,
     "timeDay": 3307,
     "timeWeek": 1817,
     "timeMonth": 1273,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2024-08-06": 28,
+      "2024-08-06": 36,
       "2024-07-29": 20,
       "2024-01-05": 16,
       "2023-10-13": 65
@@ -76,11 +76,11 @@
     "url": "http://services.cuzk.cz/monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wms-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1438,
     "timeDay": 1490,
@@ -88,7 +88,7 @@
     "timeMonth": 1342,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2024-08-06": 8
+      "2024-08-06": 0
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wfs-inspire-c-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 946,
+    "time": 947,
     "timeDay": 790,
     "timeWeek": 876,
     "timeMonth": 822,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2024-08-06": 8
+      "2024-08-06": 0
     }
   }
 ]
