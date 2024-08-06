@@ -4,19 +4,19 @@
     "url": "https://www.cuzk.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.cuzk.cz.ico",
     "slug": "www-cuzk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
-    "time": 1300,
-    "timeDay": 3690,
-    "timeWeek": 1727,
-    "timeMonth": 1235,
-    "timeYear": 1255,
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
+    "time": 1303,
+    "timeDay": 3307,
+    "timeWeek": 1817,
+    "timeMonth": 1273,
+    "timeYear": 1258,
     "dailyMinutesDown": {
-      "2024-08-06": 27,
+      "2024-08-06": 35,
       "2024-07-29": 20,
       "2024-01-05": 16,
       "2023-10-13": 65
@@ -57,9 +57,9 @@
     "slug": "dalkovy-pristup-do-kn",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 830,
     "timeDay": 1458,
@@ -67,7 +67,7 @@
     "timeMonth": 663,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-08-06": 12,
+      "2024-08-06": 21,
       "2024-07-08": 15
     }
   },
@@ -76,37 +76,39 @@
     "url": "http://services.cuzk.cz/monitoring",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wms-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1438,
+    "time": 1437,
     "timeDay": 1579,
     "timeWeek": 1381,
     "timeMonth": 1343,
     "timeYear": 1418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "WFS INSPIRE CPc",
     "url": "https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wfs-inspire-c-pc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 946,
+    "time": 945,
     "timeDay": 666,
     "timeWeek": 844,
     "timeMonth": 812,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2024-08-06": 12
+      "2024-08-06": 0
     }
   }
 ]
