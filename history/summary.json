@@ -4,9 +4,9 @@
     "url": "https://www.cuzk.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.cuzk.cz.ico",
     "slug": "www-cuzk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
@@ -57,17 +57,17 @@
     "slug": "dalkovy-pristup-do-kn",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 830,
     "timeDay": 1458,
     "timeWeek": 768,
     "timeMonth": 663,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-08-06": 0,
+      "2024-08-06": 12,
       "2024-07-08": 15
     }
   },
@@ -94,19 +94,19 @@
     "url": "https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101",
     "icon": "https://icons.duckduckgo.com/ip3/services.cuzk.cz.ico",
     "slug": "wfs-inspire-c-pc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 946,
-    "timeDay": 676,
-    "timeWeek": 869,
-    "timeMonth": 817,
-    "timeYear": 929,
+    "timeDay": 666,
+    "timeWeek": 844,
+    "timeMonth": 812,
+    "timeYear": 928,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 12
     }
   }
 ]
