@@ -54,7 +54,7 @@
     "url": "https://katastr.cuzk.cz/LoginDPWEB/login/Login.do?PAR_DestinateApplication=DalkovyPristup",
     "icon": "https://icons.duckduckgo.com/ip3/katastr.cuzk.cz.ico",
     "slug": "dalkovy-pristup-do-kn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "95.74%",
     "uptimeWeek": "99.39%",
