@@ -6,24 +6,22 @@
     "slug": "www-cuzk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.87%",
-    "time": 1478,
-    "timeDay": 1127,
-    "timeWeek": 1437,
-    "timeMonth": 1440,
-    "timeYear": 1608,
+    "time": 1497,
+    "timeDay": 4710,
+    "timeWeek": 2625,
+    "timeMonth": 1690,
+    "timeYear": 1632,
     "dailyMinutesDown": {
-      "2025-08-05": 9,
       "2025-07-24": 24,
       "2025-07-23": 141,
       "2025-06-27": 22,
       "2025-03-04": 90,
       "2024-12-03": 18,
-      "2024-10-25": 326,
-      "2024-08-06": 53
+      "2024-10-25": 326
     }
   },
   {
@@ -33,17 +31,16 @@
     "slug": "nahlizeni-do-kn",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.94%",
     "time": 1270,
-    "timeDay": 1473,
-    "timeWeek": 1494,
-    "timeMonth": 1481,
-    "timeYear": 1350,
+    "timeDay": 1553,
+    "timeWeek": 1483,
+    "timeMonth": 1462,
+    "timeYear": 1351,
     "dailyMinutesDown": {
-      "2025-08-05": 9,
       "2025-07-24": 24,
       "2025-07-23": 141,
       "2025-04-14": 20,
@@ -61,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 958,
-    "timeDay": 985,
-    "timeWeek": 1169,
-    "timeMonth": 1187,
-    "timeYear": 1032,
+    "time": 961,
+    "timeDay": 2390,
+    "timeWeek": 1366,
+    "timeMonth": 1215,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-06-27": 21,
       "2024-10-25": 21,
@@ -75,8 +72,7 @@
       "2024-08-30": 79,
       "2024-08-22": 25,
       "2024-08-15": 30,
-      "2024-08-12": 16,
-      "2024-08-06": 29
+      "2024-08-12": 16
     }
   },
   {
@@ -90,15 +86,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1648,
-    "timeDay": 1585,
-    "timeWeek": 1789,
-    "timeMonth": 1967,
+    "time": 1649,
+    "timeDay": 1816,
+    "timeWeek": 1831,
+    "timeMonth": 1961,
     "timeYear": 1727,
     "dailyMinutesDown": {
       "2025-06-27": 21,
-      "2024-10-25": 38,
-      "2024-08-06": 17
+      "2024-10-25": 38
     }
   },
   {
@@ -112,17 +107,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 760,
-    "timeDay": 437,
-    "timeWeek": 770,
-    "timeMonth": 728,
-    "timeYear": 706,
+    "time": 761,
+    "timeDay": 1027,
+    "timeWeek": 852,
+    "timeMonth": 674,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-06-27": 21,
       "2025-03-04": 98,
       "2024-10-25": 21,
-      "2024-09-06": 21,
-      "2024-08-06": 17
+      "2024-09-06": 21
     }
   }
 ]
