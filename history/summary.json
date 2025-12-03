@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.11%",
-    "time": 1566,
-    "timeDay": 1450,
-    "timeWeek": 1570,
-    "timeMonth": 1545,
-    "timeYear": 1537,
+    "time": 1565,
+    "timeDay": 1215,
+    "timeWeek": 1555,
+    "timeMonth": 1530,
+    "timeYear": 1535,
     "dailyMinutesDown": {
       "2025-11-21": 1394,
       "2025-11-20": 45,
@@ -27,8 +27,7 @@
       "2025-07-24": 24,
       "2025-07-23": 141,
       "2025-06-27": 22,
-      "2025-03-04": 90,
-      "2024-12-03": 18
+      "2025-03-04": 90
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.13%",
     "time": 1542,
-    "timeDay": 1835,
-    "timeWeek": 1534,
-    "timeMonth": 1792,
-    "timeYear": 1689,
+    "timeDay": 1296,
+    "timeWeek": 1537,
+    "timeMonth": 1747,
+    "timeYear": 1688,
     "dailyMinutesDown": {
       "2025-11-21": 1394,
       "2025-11-20": 45,
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1130,
-    "timeDay": 1352,
-    "timeWeek": 1203,
-    "timeMonth": 1325,
-    "timeYear": 1245,
+    "time": 1129,
+    "timeDay": 851,
+    "timeWeek": 1168,
+    "timeMonth": 1311,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-06-27": 21
     }
@@ -93,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1767,
-    "timeDay": 1807,
-    "timeWeek": 1798,
-    "timeMonth": 1881,
-    "timeYear": 1866,
+    "timeDay": 1596,
+    "timeWeek": 1777,
+    "timeMonth": 1860,
+    "timeYear": 1864,
     "dailyMinutesDown": {
       "2025-06-27": 21
     }
@@ -112,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 707,
-    "timeDay": 1367,
-    "timeWeek": 660,
-    "timeMonth": 681,
-    "timeYear": 692,
+    "time": 708,
+    "timeDay": 1198,
+    "timeWeek": 761,
+    "timeMonth": 698,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2025-06-27": 21,
       "2025-03-04": 98
