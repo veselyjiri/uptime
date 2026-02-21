@@ -1,7 +1,7 @@
 url: https://services.cuzk.cz/wfs/cp/epsg-5514/CP.2235132101
-status: down
-code: 503
-responseTime: 626
-lastUpdated: 2026-02-20T23:24:31.827Z
+status: up
+code: 200
+responseTime: 1181
+lastUpdated: 2026-02-21T23:19:34.437Z
 startTime: 2022-06-30T09:38:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
