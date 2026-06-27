@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
-    "time": 1511,
-    "timeDay": 1650,
-    "timeWeek": 1432,
-    "timeMonth": 1450,
+    "time": 1510,
+    "timeDay": 1112,
+    "timeWeek": 1430,
+    "timeMonth": 1442,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-06-27": 22,
       "2025-07-23": 141,
       "2025-07-24": 24,
       "2025-08-08": 15,
@@ -43,9 +42,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 1737,
-    "timeDay": 1629,
-    "timeWeek": 1546,
-    "timeMonth": 1634,
+    "timeDay": 1313,
+    "timeWeek": 1572,
+    "timeMonth": 1629,
     "timeYear": 1798,
     "dailyMinutesDown": {
       "2025-07-23": 141,
@@ -73,14 +72,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1243,
-    "timeDay": 1259,
-    "timeWeek": 1185,
+    "time": 1242,
+    "timeDay": 977,
+    "timeWeek": 1174,
     "timeMonth": 1294,
     "timeYear": 1246,
-    "dailyMinutesDown": {
-      "2025-06-27": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WMS KN",
@@ -93,13 +90,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1857,
-    "timeDay": 2060,
-    "timeWeek": 1852,
-    "timeMonth": 1832,
+    "time": 1855,
+    "timeDay": 1596,
+    "timeWeek": 1845,
+    "timeMonth": 1834,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2025-06-27": 21,
       "2026-02-21": 1400,
       "2026-02-20": 36
     }
@@ -116,12 +112,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 684,
-    "timeDay": 664,
-    "timeWeek": 559,
+    "timeDay": 433,
+    "timeWeek": 560,
     "timeMonth": 652,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-06-27": 21,
       "2026-02-21": 1400,
       "2026-02-20": 35
     }
